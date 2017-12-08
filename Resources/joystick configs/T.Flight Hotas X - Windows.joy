@@ -30,7 +30,7 @@ Assignments:
 #	 joy_use_gun_ud
 Axis 0: joy_use_roll
 Axis 1: joy_use_ptch
-Axis 2: joy_use_none
+Axis 2: joy_use_view_lr
 Axis 3: joy_use_hdng
 Axis 4: joy_use_thro
 
@@ -71,7 +71,7 @@ Button 11 (ST): 463 493
 
 Hat Switch 0 (Hat Switch): 448 42
 
-Axis Group (Stick): 0 1 
+Axis Group (Stick): 0 1
 Axis 0 (x): 526 149
 Axis 1 (y): 0 0
 
@@ -100,4 +100,4 @@ Button 4 (5): 191 237
 Button 5 (6): 244 306
 Button 6 (7): 273 398
 
-Axis 4 (Throttle Lever; x): 568 452
+Axis 2 (Throttle Lever; x): 568 452
