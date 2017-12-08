@@ -1,0 +1,19 @@
+I
+1100 version
+JOY
+
+OS: Windows
+
+ID: VID:0x045ePID:0x02e3
+Display: Xbox One Elite Controller
+
+Assignments:
+--------------------------------------------------------------
+Axis 0: joy_use_ptch
+Axis 1: joy_use_roll
+Axis 3: joy_use_hdng
+
+Button 0: cmnd_gear_tog
+Button 6: cmnd_3d_cock_cmnd
+
+

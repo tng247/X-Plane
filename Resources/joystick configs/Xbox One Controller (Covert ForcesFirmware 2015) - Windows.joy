@@ -1,0 +1,26 @@
+I
+1100 version
+JOY
+
+OS: Windows
+
+ID: VID:0x045ePID:0x02dd
+Display: Xbox One Controller
+
+Assignments:
+--------------------------------------------------------------
+Axis 0: joy_use_ptch
+Axis 1: joy_use_roll
+Axis 2: joy_use_view_ud
+Axis 3: joy_use_view_lr
+Axis 4: joy_use_hdng
+
+Button 0: cmnd_gear_tog
+Button 1: cmnd_con_atc
+Button 2: cmnd_brakes_REG_togg
+Button 6: cmnd_3d_cock_cmnd
+Button 7: cmnd_pause
+Button 8: cmnd_gen_zoom_in
+Button 9: cmnd_gen_zoom_out
+
+

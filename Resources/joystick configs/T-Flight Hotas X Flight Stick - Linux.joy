@@ -1,0 +1,19 @@
+I
+1100 version
+JOY
+
+OS: Linux
+
+ID: VID:0x044fPID:0xb108
+Display: T-Flight Hotas X Flight Stick
+
+Assignments:
+--------------------------------------------------------------
+Axis 0: joy_use_hdng
+Axis 1: joy_use_ptch
+Axis 2: joy_use_thro
+
+Button 10: cmnd_flaps_up
+Button 11: cmnd_flaps_dn
+
+

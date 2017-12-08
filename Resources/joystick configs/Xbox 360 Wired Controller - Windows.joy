@@ -1,0 +1,78 @@
+I
+1100 version
+JOY
+
+OS: Windows
+
+Name: Xbox 360 Wired Controller
+Name: Controller (XBOX 360 For Windows)
+Name: Controller (Xbox 360 Wireless Receiver for Windows)
+ID: VID:0x045ePID:0x028e
+Display: Xbox 360 Controller
+
+View: Front
+-----------------------------------------------------------------------
+Image: Xbox-360-Controller-Front.png
+
+Axis Group (Left Stick): 0 1
+Axis 0 (y): 134 109
+Axis 1 (x): 134 109
+
+Axis Group (Right Stick): 2 3
+Axis 3 (x): 485 277
+Axis 2 (y): 485 277
+
+Button 8 (L Stick): 167 132
+Button 9 (R Stick): 451 247
+
+Button 4 (L Shoulder): 152 14
+Button 5 (R Shoulder): 560 14
+
+Button 6 (Back): 286 133
+Button 7 (Start): 427 133
+
+Button 3 (Y): 550 76
+Button 2 (X): 498 128
+Button 1 (B): 603 128
+Button 0 (A): 550 180
+
+Hat Switch 0 (Direction Pad): 255 245
+
+
+View: Back
+-----------------------------------------------------------------------
+Image: Xbox-360-Controller-Back.png
+
+Axis 4 (Left & Right Trigger; y): 165 25
+
+Assignments:
+------------------------------------------------------------------------
+Axis 1: joy_use_roll
+Axis 0: joy_use_ptch
+Axis 3: joy_use_hdng
+Axis 2: joy_use_none
+Axis 4: joy_use_none
+
+# X
+Button 2: sim/engines/throttle_up
+# B
+Button 1: sim/engines/throttle_down
+
+# Y
+Button 3: sim/flight_controls/flaps_up
+# A
+Button 0: sim/flight_controls/flaps_down
+
+# Left stick btn
+Button 8: sim/flight_controls/brakes_toggle_regular
+# Right stick btn
+Button 9: sim/flight_controls/landing_gear_toggle
+
+# Start Btn
+Button 7: sim/operation/pause_toggle
+
+
+# Left shoulder button
+Button 4: sim/general/zoom_out
+# Right shoulder button
+Button 5: sim/general/zoom_in

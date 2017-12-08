@@ -1,0 +1,19 @@
+I
+1100 version
+JOY
+
+OS: Mac
+
+ID: VID:0x054cPID:0x05c4
+Display: DualShock 4
+
+Assignments:
+--------------------------------------------------------------
+Axis 0: joy_use_roll
+Axis 1: joy_use_ptch
+Axis 2: joy_use_hdng
+
+Button 1: cmnd_thro_dn
+Button 3: cmnd_thro_up
+
+

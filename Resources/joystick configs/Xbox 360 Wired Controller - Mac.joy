@@ -1,0 +1,98 @@
+I
+1100 version
+JOY
+
+OS: Mac
+
+Name: Xbox 360 Wired Controller
+Name: Controller (XBOX 360 For Windows)
+Name: Controller (Xbox 360 Wireless Receiver for Windows)
+ID: VID:0x045ePID:0x028e
+Display: Xbox 360 Controller
+
+Button 0: hidden
+Button 1: hidden
+Button 2: hidden
+Button 3: hidden
+Button 4: hidden
+
+View: Front
+-----------------------------------------------------------------------
+Image: Xbox-360-Controller-Front.png
+
+Axis Group (Left Stick): 0 1
+Axis 0 (x): 134 109
+Axis 1 (y): 0 0
+
+Axis Group (Right Stick): 2 3
+Axis 2 (x): 485 277
+Axis 3 (y): 0 0
+
+Button 11 (L Stick): 167 132
+Button 12 (R Stick): 451 247
+
+Button 13 (L Shoulder): 152 14
+Button 14 (R Shoulder): 560 14
+
+Button 10 (Back): 286 133
+Button 9 (Start): 427 133
+
+Button 19 (Y): 550 76
+Button 18 (X): 498 128
+Button 17 (B): 603 128
+Button 16 (A): 550 180
+
+Hat Switch Group (Direction Pad): 5 8 6 7
+Button 5 (↑): 258 244
+
+Button 15 (XBOX): 358 133
+
+
+View: Back
+-----------------------------------------------------------------------
+Image: Xbox-360-Controller-Back.png
+
+Axis 4 (Left Trigger; y): 165 25
+Axis 5 (Right Trigger; y): 525 25
+
+Assignments:
+------------------------------------------------------------------------
+Axis 0: joy_use_roll
+Axis 1: joy_use_ptch
+Axis 2: joy_use_hdng
+Axis 3: joy_use_none
+Axis 4: joy_use_none
+Axis 5: joy_use_none
+
+# X
+Button 17: sim/engines/throttle_up
+# B
+Button 18: sim/engines/throttle_down
+
+# Y
+Button 19: sim/flight_controls/flaps_up
+# A
+Button 16: sim/flight_controls/flaps_down
+
+# Left stick btn
+Button 11: sim/flight_controls/brakes_toggle_regular
+# Right stick btn
+Button 12: sim/flight_controls/landing_gear_toggle
+
+# Start Btn
+Button 9: sim/operation/pause_toggle
+
+
+# D-pad Up
+Button 5: sim/general/up
+# D-pad Down
+Button 6: sim/general/down
+# D-pad Right
+Button 8: sim/general/right
+# D-pad Left
+Button 7: sim/general/left
+
+# Left shoulder button
+Button 13: sim/general/zoom_out
+# Right shoulder button
+Button 14: sim/general/zoom_in
