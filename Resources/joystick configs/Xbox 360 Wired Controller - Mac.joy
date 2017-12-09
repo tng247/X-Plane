@@ -22,11 +22,11 @@ Image: Xbox-360-Controller-Front.png
 
 Axis Group (Left Stick): 0 1
 Axis 0 (x): 134 109
-Axis 1 (y): 0 0
+Axis 1 (y): 134 109
 
 Axis Group (Right Stick): 2 3
 Axis 2 (x): 485 277
-Axis 3 (y): 0 0
+Axis 3 (y): 485 277
 
 Button 11 (L Stick): 167 132
 Button 12 (R Stick): 451 247
@@ -45,7 +45,7 @@ Button 16 (A): 550 180
 Hat Switch Group (Direction Pad): 5 8 6 7
 Button 5 (↑): 258 244
 
-Button 15 (XBOX): 358 133
+Button 15 (Xbox): 358 133
 
 
 View: Back
@@ -59,9 +59,9 @@ Assignments:
 ------------------------------------------------------------------------
 Axis 0: joy_use_roll
 Axis 1: joy_use_ptch
-Axis 2: joy_use_hdng
-Axis 3: joy_use_none
-Axis 4: joy_use_none
+Axis 2: joy_use_view_lr
+Axis 3: joy_use_view_ud reverse
+Axis 4: joy_use_hdng
 Axis 5: joy_use_none
 
 # X
