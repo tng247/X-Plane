@@ -51,7 +51,7 @@ Axis 1: joy_use_roll
 Axis 0: joy_use_ptch
 Axis 3: joy_use_view_lr
 Axis 2: joy_use_view_ud reverse
-Axis 4: joy_use_hdng
+Axis 4: joy_use_hdng reverse
 
 # X
 Button 2: sim/engines/throttle_up
