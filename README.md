@@ -2,7 +2,7 @@
 ## Description
 This repository contains additional content for inclusion within the official [X-Plane](http://www.x-plane.com) product.
 
-Vetted redistributable content can be found on the [releases](https://github.com/tng247/X-Plane/releases) page, latest in-flight development content can be found on the [master](https://github.com/tng247/X-Plane/tree/master) branch.
+Stable redistributable content can be found on the [releases](https://github.com/tng247/X-Plane/releases) page, latest in-flight development content can be found on the [master](https://github.com/tng247/X-Plane/tree/master) branch.
 
 ## Usage
 With [Git](https://git-scm.com) installed open a console/terminal window and execute the following command within your X-Plane installation directory:
