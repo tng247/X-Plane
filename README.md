@@ -17,7 +17,7 @@ For example:
 ## Contributing
 All content within this repository is free for both personal and commercial use without restriction (see [LICENSE](LICENSE)).
 
-If you would like help improve this content please [clone](https://help.github.com/articles/which-remote-url-should-i-use) the repository and submit a [pull request](https://github.com/tng247/X-Plane/pull/new/master) with your changes. These requests will be reviewed periodically and verified before inclusion.
+If you would like help improve this content please [fork](https://help.github.com/articles/fork-a-repo) the repository and submit a [pull request](https://github.com/tng247/X-Plane/pull/new/master) with your changes. These requests will be reviewed periodically and verified before inclusion.
 
 ## Questions & Issues
 Please check the [Issue Tracker](https://github.com/tng247/X-Plane/issues) before submitting new questions or reporting issues.
