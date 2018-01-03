@@ -11,8 +11,18 @@ Assignments:
 --------------------------------------------------------------
 Axis 0: joy_use_ptch
 Axis 1: joy_use_roll
-Axis 3: joy_use_hdng
+Axis 2: joy_use_view_ud reverse
+Axis 3: joy_use_view_lr
+Axis 4: joy_use_hdng reverse
+Axis 5: joy_use_none
 
-Button 0: cmnd_brakes_REG_togg
-
-
+Button 0: sim/flight_controls/flaps_down
+Button 1: sim/engines/throttle_down
+Button 2: sim/engines/throttle_up
+Button 3: sim/flight_controls/flaps_up
+Button 4: sim/general/zoom_out
+Button 5: sim/general/zoom_in
+Button 7: sim/operation/pause_toggle
+Button 8: sim/flight_controls/brakes_toggle_regular
+Button 9: sim/flight_controls/landing_gear_toggle
+Button 10: hidden
